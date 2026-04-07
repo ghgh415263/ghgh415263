@@ -6,13 +6,12 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=databricks&logoColor=white)
 ![Spring Kafka](https://img.shields.io/badge/Spring_Kafka-0C5D4A?style=flat&logo=apache-kafka&logoColor=white)
 
-
-### 🧑‍💻 Open Source Activity
+### 👨‍💻 Open Source Activity
 - Spring Kafka
 - Spring Data Commons
 - Spring Data Relational
 
 
 ### 📫 Contact
-- 📧 Email: jaeyeon.kim@ibm.com / ghgh415263@naver.com
+- Email: jaeyeon.kim@ibm.com / ghgh415263@naver.com
 
